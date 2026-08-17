@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 🎓 Bachelor's degree in Computer Science , Graduated from Hawassa University.
-### Full-Stack Developer | C# | ASP.NET Core | Angular | Python
+### Full-Stack Developer | C# | ASP.NET Core | Angular | PostgreSQL
 I'm a software developer passionate about building modern,
 scalable web applications and data-driven solutions.
 
